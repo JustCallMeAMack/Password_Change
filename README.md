@@ -6,7 +6,7 @@ The project focuses on clean UI layout and proper separation of business logic f
 
 Built with SwiftUI on XCode
 
-##Features
+## Features
 - Update password form with labeled fields
  
 - Password validation:
